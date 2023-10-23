@@ -20,5 +20,12 @@ A bash scricpt was also located [here](./bin/install_terraform_cli) was referenc
 This is required to work on just Ubuntu Linux to check your distro run 
 ```bash
 cat /etc/os-release
+<<<<<<< HEAD
+```
+- **Providers** are interface to APIs that allows you to use resources in terraform.
+- **Modules** are way to make large amount if terrafrom code modular and shareable.
+
+=======
 
 ```
+>>>>>>> main
